@@ -1,0 +1,40 @@
+{
+ "signups": [
+  {
+   "email": "u1@ex.com",
+   "code": "231d5181",
+   "flags": [
+    "unknown_ref"
+   ],
+   "position": 2
+  },
+  {
+   "email": "u2@ex.com",
+   "code": "f4ff3f5d",
+   "flags": [
+    "unknown_ref"
+   ],
+   "position": 3
+  },
+  {
+   "email": "late@ex.com",
+   "code": "2e72f915",
+   "flags": [],
+   "position": 1
+  },
+  {
+   "email": "u3@ex.com",
+   "code": "0334b32e",
+   "flags": [],
+   "position": 4
+  },
+  {
+   "email": "u4@ex.com",
+   "code": "8ccf8821",
+   "flags": [
+    "unknown_ref"
+   ],
+   "position": 5
+  }
+ ]
+}

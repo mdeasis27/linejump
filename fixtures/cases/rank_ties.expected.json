@@ -1,0 +1,58 @@
+{
+ "signups": [
+  {
+   "email": "p0@ex.com",
+   "code": "ce5b783d",
+   "flags": [],
+   "position": 2
+  },
+  {
+   "email": "p1@ex.com",
+   "code": "f9df330d",
+   "flags": [],
+   "position": 4
+  },
+  {
+   "email": "p2@ex.com",
+   "code": "542c73a6",
+   "flags": [],
+   "position": 5
+  },
+  {
+   "email": "p3@ex.com",
+   "code": "0f5ad413",
+   "flags": [],
+   "position": 6
+  },
+  {
+   "email": "p4@ex.com",
+   "code": "f00e47db",
+   "flags": [],
+   "position": 1
+  },
+  {
+   "email": "p5@ex.com",
+   "code": "6935acff",
+   "flags": [],
+   "position": 3
+  },
+  {
+   "email": "p6@ex.com",
+   "code": "8ba44595",
+   "flags": [],
+   "position": 7
+  },
+  {
+   "email": "p7@ex.com",
+   "code": "c7551060",
+   "flags": [],
+   "position": 8
+  },
+  {
+   "email": "p8@ex.com",
+   "code": "bf47b7c9",
+   "flags": [],
+   "position": 9
+  }
+ ]
+}

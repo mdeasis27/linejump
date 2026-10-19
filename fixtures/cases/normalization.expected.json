@@ -1,0 +1,64 @@
+{
+ "signups": [
+  {
+   "email": "Alice@Example.com",
+   "code": "ff8d9819",
+   "flags": [],
+   "position": 2
+  },
+  {
+   "email": "alice+promo@example.COM",
+   "code": null,
+   "flags": [
+    "duplicate"
+   ],
+   "position": null
+  },
+  {
+   "email": "a.lice@example.com",
+   "code": "b78e103f",
+   "flags": [],
+   "position": 3
+  },
+  {
+   "email": "bob.smith+x@gmail.com",
+   "code": "6dcdc429",
+   "flags": [],
+   "position": 1
+  },
+  {
+   "email": "BobSmith@GoogleMail.com",
+   "code": null,
+   "flags": [
+    "duplicate"
+   ],
+   "position": null
+  },
+  {
+   "email": "b.o.b.s.m.i.t.h@gmail.com",
+   "code": null,
+   "flags": [
+    "duplicate"
+   ],
+   "position": null
+  },
+  {
+   "email": "carol@googlemail.com",
+   "code": "c36e0493",
+   "flags": [],
+   "position": 4
+  },
+  {
+   "email": "dave@yahoo.com",
+   "code": "62a106da",
+   "flags": [],
+   "position": 5
+  },
+  {
+   "email": "da.ve@yahoo.com",
+   "code": "c3b64bae",
+   "flags": [],
+   "position": 6
+  }
+ ]
+}

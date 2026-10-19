@@ -1,0 +1,32 @@
+{
+ "signups": [
+  {
+   "email": "zed@gmail.com",
+   "code": "9a29623e",
+   "flags": [],
+   "position": 1
+  },
+  {
+   "email": "Z.e.d+me@googlemail.com",
+   "code": null,
+   "flags": [
+    "duplicate"
+   ],
+   "position": null
+  },
+  {
+   "email": "yan@example.com",
+   "code": "5c3717d5",
+   "flags": [
+    "unknown_ref"
+   ],
+   "position": 2
+  },
+  {
+   "email": "xia@example.com",
+   "code": "af12cac7",
+   "flags": [],
+   "position": 3
+  }
+ ]
+}

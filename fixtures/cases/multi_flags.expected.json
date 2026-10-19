@@ -1,0 +1,81 @@
+{
+ "signups": [
+  {
+   "email": "root@ex.com",
+   "code": "c180c0c2",
+   "flags": [],
+   "position": 1
+  },
+  {
+   "email": "m1@mailinator.com",
+   "code": "18b3efa4",
+   "flags": [
+    "disposable",
+    "same_ip"
+   ],
+   "position": 2
+  },
+  {
+   "email": "m2@mailinator.com",
+   "code": "404ff543",
+   "flags": [
+    "disposable",
+    "same_ip"
+   ],
+   "position": 3
+  },
+  {
+   "email": "m3@mailinator.com",
+   "code": "cf17e0c9",
+   "flags": [
+    "disposable",
+    "same_ip"
+   ],
+   "position": 4
+  },
+  {
+   "email": "m4@mailinator.com",
+   "code": "859cbd27",
+   "flags": [
+    "disposable",
+    "same_ip"
+   ],
+   "position": 5
+  },
+  {
+   "email": "m5@mailinator.com",
+   "code": "6ee3caca",
+   "flags": [
+    "disposable",
+    "same_ip"
+   ],
+   "position": 6
+  },
+  {
+   "email": "m6@mailinator.com",
+   "code": "f17c990a",
+   "flags": [
+    "disposable",
+    "same_ip",
+    "burst"
+   ],
+   "position": 7
+  },
+  {
+   "email": "m7@sub.mailinator.com",
+   "code": "e8646c35",
+   "flags": [
+    "burst"
+   ],
+   "position": 8
+  },
+  {
+   "email": "clean@ex.com",
+   "code": "9f2fbe0b",
+   "flags": [
+    "burst"
+   ],
+   "position": 9
+  }
+ ]
+}

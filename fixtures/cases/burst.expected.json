@@ -1,0 +1,228 @@
+{
+ "signups": [
+  {
+   "email": "br1@ex.com",
+   "code": "61b7c77a",
+   "flags": [],
+   "position": 3
+  },
+  {
+   "email": "br2@ex.com",
+   "code": "4d61fb2c",
+   "flags": [],
+   "position": 4
+  },
+  {
+   "email": "br3@ex.com",
+   "code": "eeefb935",
+   "flags": [],
+   "position": 1
+  },
+  {
+   "email": "br4@ex.com",
+   "code": "422eed15",
+   "flags": [],
+   "position": 5
+  },
+  {
+   "email": "br5@ex.com",
+   "code": "261a39c2",
+   "flags": [],
+   "position": 2
+  },
+  {
+   "email": "u1x0@ex.com",
+   "code": "7eeb65b8",
+   "flags": [],
+   "position": 6
+  },
+  {
+   "email": "u1x1@ex.com",
+   "code": "500493e5",
+   "flags": [],
+   "position": 7
+  },
+  {
+   "email": "u1x2@ex.com",
+   "code": "3cf93a18",
+   "flags": [],
+   "position": 8
+  },
+  {
+   "email": "u1x3@ex.com",
+   "code": "ebd69d31",
+   "flags": [],
+   "position": 9
+  },
+  {
+   "email": "u1x4@ex.com",
+   "code": "3c4873cd",
+   "flags": [],
+   "position": 10
+  },
+  {
+   "email": "u2x0@ex.com",
+   "code": "ead6e8e0",
+   "flags": [],
+   "position": 11
+  },
+  {
+   "email": "u2x1@ex.com",
+   "code": "f87c5a49",
+   "flags": [],
+   "position": 12
+  },
+  {
+   "email": "u2x2@ex.com",
+   "code": "24e6330b",
+   "flags": [],
+   "position": 13
+  },
+  {
+   "email": "u2x3@ex.com",
+   "code": "1ce475fd",
+   "flags": [],
+   "position": 14
+  },
+  {
+   "email": "u2x4@ex.com",
+   "code": "3d6f3ac0",
+   "flags": [],
+   "position": 15
+  },
+  {
+   "email": "u2x5@ex.com",
+   "code": "0557c0b6",
+   "flags": [
+    "burst"
+   ],
+   "position": 16
+  },
+  {
+   "email": "u3x0@ex.com",
+   "code": "dbd5742c",
+   "flags": [],
+   "position": 17
+  },
+  {
+   "email": "u3x1@ex.com",
+   "code": "5992d9c0",
+   "flags": [],
+   "position": 18
+  },
+  {
+   "email": "u3x2@ex.com",
+   "code": "e6dc8808",
+   "flags": [],
+   "position": 19
+  },
+  {
+   "email": "u3x3@ex.com",
+   "code": "09e08b84",
+   "flags": [],
+   "position": 20
+  },
+  {
+   "email": "u3x4@ex.com",
+   "code": "710983bb",
+   "flags": [],
+   "position": 21
+  },
+  {
+   "email": "u3x5@ex.com",
+   "code": "4f024253",
+   "flags": [],
+   "position": 22
+  },
+  {
+   "email": "u4x0@ex.com",
+   "code": "2fb8b19a",
+   "flags": [],
+   "position": 23
+  },
+  {
+   "email": "u4x1@ex.com",
+   "code": "a03e0f7c",
+   "flags": [],
+   "position": 24
+  },
+  {
+   "email": "u4x2@ex.com",
+   "code": "2c800d62",
+   "flags": [],
+   "position": 25
+  },
+  {
+   "email": "u4x3@ex.com",
+   "code": "c980d9f6",
+   "flags": [],
+   "position": 26
+  },
+  {
+   "email": "u4x4@ex.com",
+   "code": "2bf25375",
+   "flags": [],
+   "position": 27
+  },
+  {
+   "email": "u4x5@ex.com",
+   "code": "22069665",
+   "flags": [
+    "burst"
+   ],
+   "position": 28
+  },
+  {
+   "email": "u5x0@ex.com",
+   "code": "23d1adca",
+   "flags": [],
+   "position": 29
+  },
+  {
+   "email": "u5x1@ex.com",
+   "code": "4f9dcfca",
+   "flags": [],
+   "position": 30
+  },
+  {
+   "email": "u5x2@ex.com",
+   "code": "2624b467",
+   "flags": [],
+   "position": 31
+  },
+  {
+   "email": "u5x3@ex.com",
+   "code": "a446cdec",
+   "flags": [],
+   "position": 32
+  },
+  {
+   "email": "u5x4@ex.com",
+   "code": "9a8aefe9",
+   "flags": [],
+   "position": 33
+  },
+  {
+   "email": "u5x5@ex.com",
+   "code": "c4b8ecf1",
+   "flags": [
+    "burst"
+   ],
+   "position": 34
+  },
+  {
+   "email": "u5x6@ex.com",
+   "code": "ba17d80b",
+   "flags": [
+    "burst"
+   ],
+   "position": 35
+  },
+  {
+   "email": "u5x7@ex.com",
+   "code": "e0ad2587",
+   "flags": [],
+   "position": 36
+  }
+ ]
+}

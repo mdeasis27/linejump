@@ -1,0 +1,9 @@
+{"ts":"2026-03-02T09:00:00.000Z","email":"root@ex.com","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:00:10.000Z","email":"m1@mailinator.com","ref":"c180c0c2","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:00:20.000Z","email":"m2@mailinator.com","ref":"c180c0c2","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:00:30.000Z","email":"m3@mailinator.com","ref":"c180c0c2","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:00:40.000Z","email":"m4@mailinator.com","ref":"c180c0c2","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:00:50.000Z","email":"m5@mailinator.com","ref":"c180c0c2","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:01:00.000Z","email":"m6@mailinator.com","ref":"c180c0c2","ip":"6.0.0.1"}
+{"ts":"2026-03-02T09:01:10.000Z","email":"m7@sub.mailinator.com","ref":"c180c0c2","ip":"6.0.0.8"}
+{"ts":"2026-03-02T09:01:20.000Z","email":"clean@ex.com","ref":"c180c0c2","ip":"6.0.0.9"}
